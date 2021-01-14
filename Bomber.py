@@ -1,3 +1,8 @@
+  
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
+# spymer v9.0
+# Author: FSystem88
 import requests, random, datetime, sys, time, argparse, os
 from colorama import Fore, Back, Style
 
